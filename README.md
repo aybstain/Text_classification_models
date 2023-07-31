@@ -1,4 +1,3 @@
-<img width="704" alt="Capture" src="https://github.com/aybstain/Text_classification_models/assets/103702856/ab461120-e222-4b0c-805d-fa9d4b20b1eb">
 # Topic Classification with ML Models
 
 This repository contains the code and data for a topic classification project using various Machine Learning (ML) models. The goal is to classify news articles into four categories: World, Sports, Business, and Sci/Tech.
