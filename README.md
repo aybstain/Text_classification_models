@@ -67,5 +67,6 @@ Run the main.py script in your local environment or on your server. The script w
 
 <img width="692" alt="Capture2" src="https://github.com/aybstain/Text_classification_models/assets/103702856/441e2aff-c771-4024-9083-e30c1c59a03e">
 
+<img width="748" alt="capture3" src="https://github.com/aybstain/Text_classification_models/assets/103702856/22003465-48ed-47a8-94dd-034793864900">
 
 
